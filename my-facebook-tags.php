@@ -1,11 +1,17 @@
 <?php
 
 /*
-Plugin Name: Test
-Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
-Description: A brief description of the Plugin.
+Plugin Name: My Facebook Tags
+Plugin URI: https://github.com/khaledMohammed000/wp-plugin-facebook-tags
+Description: Plugin adds some facebook open graph tags to our single posts.
 Version: 1.0
-Author: user-1
-Author URI: http://URI_Of_The_Plugin_Author
-License: A "Slug" license name e.g. GPL2
+Author: Mohammed
+Author URI: http://khaledmohammed.me
+License: GPL2
 */
+
+add_action('wp_head','my_facebook_tags');
+
+function my_facebook_tags(){
+	echo 'I dont do anything';
+}
