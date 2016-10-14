@@ -11,5 +11,5 @@ function my_plugin_menu_page(){
 }
 
 function plugin_settings_page(){
-
+	readfile('form.html');
 }
