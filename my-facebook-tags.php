@@ -10,8 +10,22 @@ Author URI: http://khaledmohammed.me
 License: GPL2
 */
 
-add_action('wp_head','my_facebook_tags');
 
 function my_facebook_tags(){
-	echo 'I dont do anything';
-}
+	if(is_single()){
+		?>
+<meta property="og:title" content="<?php the_title()?>"/>
+<meta property="og:site_name" content="<?php bloginfo('name')?>"/>
+<meta property="og:url" content="<?php the_permalink()?>"/>
+<meta property="og:description" content="<?php the_excerpt()?>"/>
+<meta property="og:type" content="article"/>
+
+<!--if weird syntax in PHP @ http://php.net/manual/en/control-structures.alternative-syntax.php-->
+<?php if(has_post_thumbnail()) :$image = wp_get_attachment_image_src(get_post_thumbnail_id(),'large'); ?>
+	<meta property="og:image" content="<?php echo $image[0]; ?>">
+<?php endif;?>
+<?php
+	}//end of if()
+}//end of my_facebook_tags()
+
+add_action('wp_head','my_facebook_tags');
