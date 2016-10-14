@@ -29,3 +29,5 @@ function my_facebook_tags(){
 }//end of my_facebook_tags()
 
 add_action('wp_head','my_facebook_tags');
+
+readfile('post-notification.php');

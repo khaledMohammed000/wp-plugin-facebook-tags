@@ -21,14 +21,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="my-facebook-tags.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="my-facebook-tags.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my-facebook-tags.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="186">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding>
                 <element signature="e#7#272#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post-notification.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/post-notification.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,7 +70,9 @@
       <list>
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/tmp.php" />
+        <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/my-facebook-tags.php" />
+        <option value="$PROJECT_DIR$/post-notification.php" />
       </list>
     </option>
   </component>
@@ -190,16 +212,16 @@
       <workItem from="1476337077534" duration="134000" />
       <workItem from="1476356037555" duration="3632000" />
       <workItem from="1476377542516" duration="66000" />
-      <workItem from="1476377705710" duration="3844000" />
+      <workItem from="1476377705710" duration="6405000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7937000" />
+    <option name="totallyTimeSpent" value="10498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="728" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15474339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -207,7 +229,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -287,13 +309,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my-facebook-tags.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="186">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding>
             <element signature="e#7#272#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/wp/wordpress/wp-includes/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="3493" column="9" selection-start-line="3493" selection-start-column="9" selection-end-line="3493" selection-end-column="9" />
+          <folding>
+            <marker date="1471288710000" expanded="true" signature="53025:53041" ph="Insert into post... " />
+            <marker date="1471288710000" expanded="true" signature="53051:53067" ph="Insert into page... " />
+            <marker date="1471288710000" expanded="true" signature="78775:78859" ph="SELECT post_... $" />
+            <marker date="1471288710000" expanded="true" signature="80795:80946" ph="SELECT post_... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="81116:81209" ph="SELECT COUNT... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="86937:86977" ph="SELECT * FRO... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="88384:88452" ph="SELECT * FRO... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="88777:88854" ph="SELECT ID FR... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="89306:89371" ph="SELECT comme... wp_comments" />
+            <marker date="1471288710000" expanded="true" signature="89564:89618" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1471288710000" expanded="true" signature="94206:94289" ph="SELECT comme... wp_comments" />
+            <marker date="1471288710000" expanded="true" signature="96211:96294" ph="UPDATE wp_co... " />
+            <marker date="1471288710000" expanded="true" signature="116000:116041" ph="SELECT ID FR... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="127575:127651" ph="SELECT post_... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="128724:128859" ph="SELECT post_... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="129977:130072" ph="SELECT post_... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="140441:140486" ph="SELECT pinge... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="142011:142056" ph="SELECT pinge... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="142627:142673" ph="SELECT to_pi... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="144106:144158" ph="SELECT ID FR... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="146619:146759" ph="SELECT ID, p... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="148449:148547" ph="SELECT ID FR... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="148608:148685" ph="SELECT ID FR... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="160792:160850" ph="SELECT * FRO... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="164970:165010" ph="SELECT * FRO... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="166128:166193" ph="SELECT comme... wp_comments" />
+            <marker date="1471288710000" expanded="true" signature="166387:166441" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1471288710000" expanded="true" signature="167012:167131" ph="SELECT meta_... wp_postmeta" />
+            <marker date="1471288710000" expanded="true" signature="189273:189418" ph="SELECT post_... " />
+            <marker date="1471288710000" expanded="true" signature="189477:189618" ph="SELECT post_... " />
+            <marker date="1471288710000" expanded="true" signature="189718:189912" ph="SELECT DATE_... " />
+            <marker date="1471288710000" expanded="true" signature="200627:200737" ph="SELECT ID FR... wp_posts" />
+            <marker date="1471288710000" expanded="true" signature="203258:203314" ph="SELECT wp_po... wp_posts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/post-notification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+          <folding />
         </state>
       </provider>
     </entry>
